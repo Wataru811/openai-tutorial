@@ -5,6 +5,9 @@
 
 https://amzn.to/3PhJp9P
 
+repo
+https://github.com/GenerativeAgents/agent-book/tree/main
+
 ## 2024
 
 
